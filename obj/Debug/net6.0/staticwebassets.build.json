@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E/6dzCI7v7hRkr24CzAfJ7Wqx1LAx0irOK62xWqFZA8=",
+  "Source": "dotnetSQLApi",
+  "BasePath": "_content/dotnetSQLApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
